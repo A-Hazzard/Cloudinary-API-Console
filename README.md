@@ -1,4 +1,4 @@
-# <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1599098500/creative_source/Logo/Cloud%20Glyph/cloudinary_cloud_glyph_blue.png" width="32" height="32" style="vertical-align: middle"> Cloudinary API Console Template
+# <img src="https://www.drupal.org/files/project-images/logo_191.png" width="32" height="32" style="vertical-align: middle"> Cloudinary API Console Template
 
 A lightweight, ready-to-use template for integrating Cloudinary's media management capabilities into your Node.js applications. This template provides a simple starting point for working with Cloudinary's API.
 
